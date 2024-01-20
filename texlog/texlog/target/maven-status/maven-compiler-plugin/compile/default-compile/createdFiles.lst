@@ -1,0 +1,13 @@
+main/Repository/RoleRepository.class
+main/Models/User.class
+main/Models/Role.class
+main/Repository/UserRepository.class
+main/Repository/PaperRepository.class
+main/TexlogApplication.class
+main/JerseyConfig.class
+main/Controller/UserController.class
+main/Repository/ConferenceRepository.class
+main/Models/Paper.class
+main/Models/Conference.class
+main/Controller/PaperController.class
+main/Controller/ConferenceController.class
